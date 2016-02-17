@@ -368,21 +368,21 @@
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text>/{{effect1}}</text>
+				<text> / {{effect1}}</text>
 				<visible>'{{effect1}}' != ''</visible>
 			</text>
 			<text>
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text>/{{effect2}}</text>
+				<text> / {{effect2}}</text>
 				<visible>'{{effect2}}' != ''</visible>
 			</text>
 			<text>
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text>/{{effect3}}</text>
+				<text> / {{effect3}}</text>
 				<visible>'{{effect3}}' != ''</visible>
 			</text>
 			<text>
