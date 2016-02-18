@@ -345,7 +345,7 @@
 		</image>
 		<!-- 魔法标志 -->
 		<image index="2" scaleType="FIT_CENTER" click="stmark">
-			<size left="245" top="75" width="132" height="24"/>
+			<size left="227" top="75" width="150" height="26"/>
 			<src>enmark/{{stmark}}.png</src>
 			<visible>{{is_spelltrap}}</visible>
 		</image>
