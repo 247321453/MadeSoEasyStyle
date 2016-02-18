@@ -332,6 +332,8 @@
 		<!-- 属性 -->
 		<image index="2" click="cardattr">
 			<size left="350" top="29" width="38" height="38"/>
+			<src when="'{{cardtype}}' == 'spell'">attribute/spell_en.png</src>
+			<src when="'{{cardtype}}' == 'trap'">attribute/trap_en.png</src>
 			<src>attribute/{{cardattr}}_en.png</src>
 		</image>
 		<!-- 等级 -->
