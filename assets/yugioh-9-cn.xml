@@ -101,15 +101,15 @@
 	</data>
 	<data name="stmark" default=""  desc="魔法陷阱标识" >
 		<item name="无" value="" />
-		<item name="通常魔法" value="0" />
-		<item name="通常陷阱" value="1" />
-		<item name="速攻魔法" value="2" />
-		<item name="仪式魔法" value="3" />
-		<item name="永续魔法" value="4" />
-		<item name="装备魔法" value="5" />
-		<item name="场地魔法" value="6" />
-		<item name="反击陷阱" value="7" />
-		<item name="永续陷阱" value="8" />
+		<item name="通常魔法" value="normalspell" />
+		<item name="通常陷阱" value="normaltrap" />
+		<item name="速攻魔法" value="quickspell" />
+		<item name="仪式魔法" value="ritualspell" />
+		<item name="永续魔法" value="continuousspell" />
+		<item name="装备魔法" value="equipspell" />
+		<item name="场地魔法" value="fieldspell" />
+		<item name="反击陷阱" value="countertrap" />
+		<item name="永续陷阱" value="continuoustrap" />
 	</data>
 	<data name="race" desc="种族" default="" hide="true">
 		<item value=""/>
@@ -339,7 +339,7 @@
 		<!-- 魔法标志 -->
 		<image index="2" scaleType="FIT_CENTER" click="stmark">
 			<size left="245" top="75" width="132" height="24"/>
-			<src>jpmark/mark-{{stmark}}.png</src>
+			<src>jpmark/{{stmark}}.png</src>
 			<visible>{{is_spelltrap}}</visible>
 		</image>
 		<!-- 种族/效果/效果/效果 -->

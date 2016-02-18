@@ -104,15 +104,15 @@
 	</data>
 	<data name="stmark" default=""  desc="spell/trap" >
 		<item name="none" value="" />
-		<item name="normal spell" value="0" />
-		<item name="normal trap" value="1" />
-		<item name="quick attack spell" value="2" />
-		<item name="ritual spell" value="3" />
-		<item name="continued spell" value="4" />
-		<item name="equip spell" value="5" />
-		<item name="field spell" value="6" />
-		<item name="counter trap" value="7" />
-		<item name="continued trap" value="8" />
+		<item name="normal spell" value="normalspell" />
+		<item name="normal trap" value="normaltrap" />
+		<item name="quick spell" value="quickspell" />
+		<item name="ritual spell" value="ritualspell" />
+		<item name="continuouss spell" value="continuousspell" />
+		<item name="equip spell" value="equipspell" />
+		<item name="field spell" value="fieldspell" />
+		<item name="counter trap" value="countertrap" />
+		<item name="continuouess trap" value="continuoustrap" />
 	</data>
 	
 	<data name="race" desc="Race" default="" hide="true">
@@ -344,7 +344,7 @@
 		<!-- 魔法标志 -->
 		<image index="2" scaleType="FIT_CENTER" click="stmark">
 			<size left="245" top="75" width="132" height="24"/>
-			<src>jpmark/mark-{{stmark}}.png</src>
+			<src>enmark/{{stmark}}.png</src>
 			<visible>{{is_spelltrap}}</visible>
 		</image>
 		<!-- 种族/效果/效果/效果 -->
