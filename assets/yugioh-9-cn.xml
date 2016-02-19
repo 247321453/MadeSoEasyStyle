@@ -212,7 +212,7 @@
 		</image>
 		<!-- 摇摆背景 -->
 		<image index="-1">
-			<size left="13.5" top="272" width="393" height="324"/>
+			<size left="13.5" top="272" width="394" height="325"/>
 			<src>pendulum/pendulum.png</src>
 			<visible>{{is_pendulum}}</visible>
 		</image>
