@@ -483,6 +483,7 @@
 			<color>#000000</color>
 			<font when="{{is_spelltrap}}" 
 				  name="font/MatrixBook.ttf" style="normal" size="14"/>
+			<font when="'{{cardtype}}'=='normal'" name="font/MatrixBook.ttf" style="italic" size="13"/>
 			<font name="font/MatrixBook.ttf" style="normal" size="13"/>
 			<text>{{cardtext}}</text>
 		</text>
