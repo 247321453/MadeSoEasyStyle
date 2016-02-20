@@ -473,7 +473,7 @@
 			<visible>{{is_pendulum}}</visible>
 		</text>
 		<!-- 效果-->
-		<text index="2" line-space-scale="1.2" singleline="false" click="cardtext"  keepWord="true">
+		<text index="2" line-space-scale="1.0" singleline="false" click="cardtext"  keepWord="true">
 			<size when="{{pendulum_is_big}}"
 				left="34.5" top="493" width="353" height="58"/>
 			<size when="{{is_spelltrap}}"
