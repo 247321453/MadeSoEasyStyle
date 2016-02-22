@@ -4,10 +4,10 @@
 		<name>yugioh-9-en</name>
 		<desc>Yu-Gi-Oh 9th</desc>
 		<author>CaiCai</author>
-		<version>20160217</version>
+		<version>20160222</version>
 		<app-version>1</app-version>
 		<icon>icon_en.png</icon>
-		<url>yugioh-9.zip</url>
+		<url>https://github.com/247321453/MadeSoEasyStyle/raw/master/assets/yugioh-9.zip</url>
 	</styleinfo>
 
 	<data name="image_type" default=""  desc="Image Type" >
