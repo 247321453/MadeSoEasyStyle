@@ -142,7 +142,7 @@
 		<item value="Created-Divine"/>
 		<item value="Wyrm"/>
 	</data>
-	<data name="effect" desc="effedt" default="" hide="true">
+	<data name="effect" desc="effect" default="" hide="true">
 		<item value=""/>
 		<item value="Synchro"/>
 		<item value="Xyz"/>
