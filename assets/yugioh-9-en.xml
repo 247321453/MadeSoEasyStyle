@@ -460,7 +460,7 @@
 			<src>copyright/{{cardcopy}}0.png</src>
 		</image>
 		<!-- P怪效果 -->
-		<text index="2" line-space-scale="1.2"  singleline="false" click="cardptext" keepWord="true" >
+		<text index="2" line-space-scale="1.0"  singleline="false" click="cardptext" keepWord="true" >
 			<size when="{{pendulum_is_small}}"
 				left="67" top="405" width="288" height="46"/>
 			<size when="{{pendulum_is_big}}"

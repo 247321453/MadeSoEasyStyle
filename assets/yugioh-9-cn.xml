@@ -455,7 +455,7 @@
 			<src>copyright/{{cardcopy}}0.png</src>
 		</image>
 		<!-- P怪效果 -->
-		<text index="2" line-space-scale="1.2"  singleline="false" click="cardptext" keepWord="false" >
+		<text index="2" line-space-scale="1.0"  singleline="false" click="cardptext" keepWord="false" >
 			<size when="{{pendulum_is_small}}"
 				left="67" top="405" width="288" height="46"/>
 			<size when="{{pendulum_is_big}}"
@@ -468,7 +468,7 @@
 			<visible>{{is_pendulum}}</visible>
 		</text>
 		<!-- 效果-->
-		<text index="2" line-space-scale="1.2" singleline="false" click="cardtext"  keepWord="false">
+		<text index="2" line-space-scale="1.0" singleline="false" click="cardtext"  keepWord="false">
 			<size when="{{pendulum_is_big}}"
 				left="34.5" top="493" width="353" height="58"/>
 			<size when="{{is_spelltrap}}"
