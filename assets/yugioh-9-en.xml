@@ -7,7 +7,7 @@
 		<version>20160222</version>
 		<app-version>1</app-version>
 		<icon>icon_en.png</icon>
-		<url>https://github.com/247321453/MadeSoEasyStyle/raw/master/assets/yugioh-9.zip</url>
+		<url>yugioh-9.zip</url>
 	</styleinfo>
 
 	<data name="image_type" default=""  desc="Image Type" >
