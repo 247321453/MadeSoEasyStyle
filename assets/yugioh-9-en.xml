@@ -352,8 +352,8 @@
 		<!-- 种族/效果/效果/效果 -->
 		<layout index="2" type="horizontal" click="cardmonster">
 			<size when="{{pendulum_is_big}}"
-				left="32" top="472" width="314" height="24"/>
-			<size left="32" top="457" width="314" height="24"/>
+				left="32" top="473" width="314" height="24"/>
+			<size left="32" top="458" width="314" height="24"/>
 			<text>
 				<align>vcenter</align>
 				<color>#000000</color>
@@ -478,7 +478,7 @@
 				left="34.5" top="493" width="353" height="58"/>
 			<size when="{{is_spelltrap}}"
 				left="34.5" top="461" width="353" height="110"/>
-			<size left="34.5" top="480" width="353" height="73"/>
+			<size left="34.5" top="479" width="353" height="75"/>
 			<align>left</align>
 			<color>#000000</color>
 			<font when="{{is_spelltrap}}" 
