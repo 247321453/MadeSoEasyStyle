@@ -39,9 +39,9 @@
 		<item name="spell" value="spell" />
 		<item name="trap" value="trap" />
 	</data>
-	<data name="cardname" desc="Card Name" type="text" default="Click here to enter the card name" />
+	<data name="cardname" desc="Card Name" type="text" default="Click here to enter card name" />
 	<data name="cardcode" desc="Card Code" type="text"  default="00000000" />
-	<data name="cardtext" desc="Text" type="text"  default="Click here to enter the card text" />
+	<data name="cardtext" desc="Text" type="text"  default="Click here to enter card text" />
 	<data name="cardptext" desc="Pendulum Text" type="text" default="click this input pendulum text" />
 	<data name="cardpleft" desc="Pendulum Left"  type="text" default="0"  />
 	<data name="cardpright" desc="Pendulum Right" type="text"  default="0"  />
@@ -71,7 +71,7 @@
 		<item name="silvery" value="#E6E6E6" />
 		<item name="gold" value="#D8C735" />
 		<item name="red" value="#3C0000" />
-		<item name="wihte" value="#ffffff" />
+		<item name="white" value="#ffffff" />
 		<item name="black" value="#000000" />
 	</data>
 		
