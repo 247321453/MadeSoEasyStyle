@@ -17,7 +17,7 @@
 	</data>
 	<data name="cardattr" default="none" desc="Attribute" >
 		<item name="none" value="none" />
-		<item name="drak" value="dark" />
+		<item name="dark" value="dark" />
 		<item name="divine" value="divine" />
 		<item name="earth" value="earth" />
 		<item name="fire" value="fire" />
