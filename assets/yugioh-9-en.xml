@@ -2,10 +2,10 @@
 <style width="421" height="610" savename="{{cardname}}">
 	<styleinfo>
 		<name>yugioh-9-en</name>
-		<desc>Yu-Gi-Oh 9th</desc>
+		<desc>YGO 9th</desc>
 		<author>CaiCai</author>
-		<version>20160222</version>
-		<app-version>1</app-version>
+		<version>20160309</version>
+		<app-version>2</app-version>
 		<icon>icon_en.png</icon>
 		<url>yugioh-9.zip</url>
 	</styleinfo>
@@ -370,21 +370,21 @@
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text> / {{effect1}}</text>
+				<text>/{{effect1}}</text>
 				<visible>'{{effect1}}' != ''</visible>
 			</text>
 			<text>
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text> / {{effect2}}</text>
+				<text>/{{effect2}}</text>
 				<visible>'{{effect2}}' != ''</visible>
 			</text>
 			<text>
 				<align>vcenter</align>
 				<color>#000000</color>
 				<font name="font/ITCStoneSerifSmallCapsBold.ttf" style="normal" size="15"/>
-				<text> / {{effect3}}</text>
+				<text>/{{effect3}}</text>
 				<visible>'{{effect3}}' != ''</visible>
 			</text>
 			<text>
